@@ -5,9 +5,11 @@ A highly optimized, modern, and realistic elevator system for QBCore frameworks.
 ### Preview (Görseller)
 <p align="center">
   <img src="assets/ui.png" alt="Elevator UI Preview" width="300"/>
+</p>
+### Config
+<p align="center">
   <img src="assets/config.png" alt="Elevator Config Preview" width="500"/>
 </p>
-
 ## Features (Özellikler)
 
 ### English
