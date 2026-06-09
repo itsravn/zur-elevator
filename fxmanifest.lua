@@ -25,9 +25,3 @@ files {
 dependencies {
     'qb-core'
 }
-
--- FiveM Asset Escrow (Şifreleme) Ayarları
--- Sadece config.lua açık kalacak, client.lua şifrelenecek.
-escrow_ignore {
-    'shared/config.lua'
-}
