@@ -4,14 +4,14 @@ A highly optimized, modern, and realistic elevator system for QBCore frameworks.
 
 ## Features (Özellikler)
 
-### 🇬🇧 English
+### English
 - **0.00ms Performance**: Perfectly optimized. Zero resource usage when idle.
 - **Skeuomorphic UI**: Realistic brushed metal panel with LED screen and glowing round buttons.
 - **Dynamic Scroll**: Automatically adds a scrollbar if the number of floors exceeds the screen limit.
 - **Instant Teleportation**: No black screen fades. Instant movement with elevator ding sound effect.
 - **Protected Code**: Client and UI code is obfuscated to prevent theft, while `config.lua` remains fully customizable.
 
-### 🇹🇷 Türkçe
+### Türkçe
 - **0.00ms Performans**: Kusursuz optimizasyon. Uzaktayken CPU tüketimi sıfırdır.
 - **Gerçekçi Tasarım**: Fırçalanmış metal detaylar, dijital LED ekran ve parlayan asansör butonları.
 - **Akıllı Kaydırma**: Kat sayısı ekranı aşarsa otomatik ve şık bir kaydırma (scroll) çubuğu belirir.
