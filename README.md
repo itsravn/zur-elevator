@@ -2,6 +2,12 @@
 
 A highly optimized, modern, and realistic elevator system for QBCore frameworks. Features a sleek, skeuomorphic NUI design, dynamic floor generation, and zero-fade instant teleportation.
 
+### Preview (Görseller)
+<p align="center">
+  <img src="assets/ui.png" alt="Elevator UI Preview" width="300"/>
+  <img src="assets/config.png" alt="Elevator Config Preview" width="500"/>
+</p>
+
 ## Features (Özellikler)
 
 ### English
