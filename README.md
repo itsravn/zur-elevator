@@ -1,6 +1,6 @@
 # Fivem Elevator Script🛗
 
-A highly optimized, modern, and realistic elevator system for QBCore frameworks. Features a sleek, skeuomorphic NUI design, dynamic floor generation, and zero-fade instant teleportation.
+A highly optimized, modern, and realistic elevator system for QBCore frameworks.
 
 ### Preview (Görseller)
 <p align="center">
