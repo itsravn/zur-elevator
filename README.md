@@ -2,7 +2,7 @@
 
 A highly optimized, modern, and realistic elevator system for QBCore frameworks.
 
-### Preview (Görseller)
+### Preview
 <p align="center">
   <img src="assets/ui.png" alt="Elevator UI Preview" width="300"/>
 </p>
