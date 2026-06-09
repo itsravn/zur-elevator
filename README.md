@@ -11,19 +11,18 @@ A highly optimized, modern, and realistic elevator system for QBCore frameworks.
 <p align="center">
   <img src="assets/config.png" alt="Elevator Config Preview" width="500"/>
 </p>
+
 ## Features (Özellikler)
 
 ### English
-- **0.00ms Performance**: Perfectly optimized. Zero resource usage when idle.
-- **Skeuomorphic UI**: Realistic brushed metal panel with LED screen and glowing round buttons.
+- **0.00ms Performance**: Perfectly optimized.
+- **Skeuomorphic UI**: Realistic brushed metal panel.
 - **Dynamic Scroll**: Automatically adds a scrollbar if the number of floors exceeds the screen limit.
-- **Instant Teleportation**: No black screen fades. Instant movement with elevator ding sound effect.
 
 ### Türkçe
-- **0.00ms Performans**: Kusursuz optimizasyon. Uzaktayken CPU tüketimi sıfırdır.
-- **Gerçekçi Tasarım**: Fırçalanmış metal detaylar, dijital LED ekran ve parlayan asansör butonları.
-- **Akıllı Kaydırma**: Kat sayısı ekranı aşarsa otomatik ve şık bir kaydırma (scroll) çubuğu belirir.
-- **Anında Işınlanma**: Ekran kararması yok. Asansör zili efektiyle anında ışınlanma.
+- **0.00ms Performans**: Kusursuz optimizasyon.
+- **Gerçekçi Tasarım**: Dijital LED ekran ve parlayan asansör butonları.
+- **Akıllı Kaydırma**: Kat sayısı ekranı aşarsa otomatik ve şık bir kaydırma çubuğu.
 
 ## Installation (Kurulum)
 1. Drop the `zur-elevator` folder into your `resources` directory.
